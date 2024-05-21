@@ -1,16 +1,14 @@
-## Hi there 👋
+## Boas Vindas 💙
 
-<!--
-**AnaGabrielly2rollo/AnaGabrielly2rollo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Ana Gabrielly
 
-Here are some ideas to get you started:
+- Estou estudando no Alura
+- Estou desenvolvendo na linguegem javascript
+- Utilizo esse espaço para a minha organização e copartilhamento  dos meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ ### Você pode entrar no meu perfil 📫
+
+ 00001105148579sp@al.educacao.sp.gov.br
+
+
+![](https://media1.tenor.com/m/eg0m4t6FeMwAAAAC/spiderman-meme-pointing.gif)
